@@ -1,4 +1,4 @@
-# ProiectareaJocurilorUnit
+# ProiectareaJocurilorUnity
 
 Proiect echipa
 https://github.com/soniavilceanu/ProiectareaJocurilor/tree/master/Survival%20Maze
